@@ -1,4 +1,4 @@
 # belajar-kolaborasi
 Belajar menggunakan fitur squashing changes di Dicoding
-di Dicoding
+Susah fokus belajar di Kantor
 Ya gitulah
